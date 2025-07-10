@@ -1,4 +1,4 @@
-{{
+ {{
 config(
 materialized='incermental',
 unique_key='customer_id',
